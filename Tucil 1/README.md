@@ -1,4 +1,4 @@
-# Algeo02-20016 - Web-based Image Compression using SVD Algorithm
+# Tucil 1 Algorithm Strategy - Word Search Puzzle Program
 
 <!-- ## Table of Contents
 * [General Info](#general-information)
@@ -8,7 +8,7 @@
 
 
 ## General Information
-A 2D word search program using C++ brute-force algorithm.
+A 2D word search puzzle program using C++ brute-force algorithm.
 
 ## Devide Requirements
 1. g++ compiler installed
