@@ -9,12 +9,11 @@
 A 2D word search program using C++ brute-force algorithm.
 
 ## Devide Requirements
-1. g++ compiler installed
-2. c++ programming languange
+1. g++ compiler installed (to compile the program only)
 
 ## How to run?
 (LOCAL)
-1. (First use only): Clone this repository, then change directory to bin. `cd bin`
+1. (First use only): Clone this repository, then change directory to bin `cd Tucil1_13520045/bin`
 2. Run the program by writing `./main`
 3. Insert your configuration file name
 
