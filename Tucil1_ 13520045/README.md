@@ -1,6 +1,6 @@
 # Word Search Puzzle
 
-<!-- ## Table of Contents
+## Table of Contents
 * [General Info](#general-information)
 * [Usage](#usage)
 * [Contact](#contact)
