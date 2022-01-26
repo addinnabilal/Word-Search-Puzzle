@@ -18,6 +18,7 @@ void readFile(string file_name, vector<vector<char>> *board, vector<string> *wor
     ifstream file_in(file_name.c_str());
     if (!file_in){
         cerr <<"Cannot open the File: " <<file_name<<endl;
+        exit(1);
     }    
     string line;
     while (getline(file_in, line)) {
